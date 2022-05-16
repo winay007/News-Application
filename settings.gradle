@@ -1,9 +1,22 @@
+<<<<<<< HEAD
+=======
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+>>>>>>> c44e5891ab92c14702b15c06625cb3230cdd2edc
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
         mavenCentral()
+<<<<<<< HEAD
         jcenter() // Warning: this repository is going to shut down soon
+=======
+>>>>>>> c44e5891ab92c14702b15c06625cb3230cdd2edc
     }
 }
 rootProject.name = "NewsApplication"
