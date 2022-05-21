@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+<<<<<<< HEAD
         <entry key="..\:/Gpp(6TH SEM)/APP/NewsApplication/app/src/main/res/layout/activity_main.xml" value="0.14270833333333333" />
+=======
+        <entry key="..\:/PSG/GPP/Sem 6/AAP/Project/News-Application/app/src/main/res/layout/activity_details.xml" value="0.1796875" />
+        <entry key="..\:/PSG/GPP/Sem 6/AAP/Project/News-Application/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/PSG/GPP/Sem 6/AAP/Project/News-Application/app/src/main/res/layout/headline_list_items.xml" value="0.25" />
+>>>>>>> dbf6dd86d1d8e717b14b92f2a1665653b7db77c0
       </map>
     </option>
   </component>
