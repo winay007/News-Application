@@ -1,5 +1,6 @@
 package com.example.newsapplication;
 
+import android.graphics.Typeface;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -18,6 +19,7 @@ public class CustomViewHolder extends RecyclerView.ViewHolder {
         super(itemView);
 
         text_title = itemView.findViewById(R.id.text_title);
+        text_title.setTypeface(null, Typeface.BOLD);
         text_source = itemView.findViewById(R.id.text_source);
         img_headline = itemView.findViewById(R.id.img_headline);
         cardView = itemView.findViewById(R.id.main_container);
